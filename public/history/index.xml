@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Histories on 1975 Cadillac Eldorado Convertible</title>
+    <link>http://1975eldoradoconvertible.com/history/</link>
+    <description>Recent content in Histories on 1975 Cadillac Eldorado Convertible</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 19:20:55 -0700</lastBuildDate><atom:link href="http://1975eldoradoconvertible.com/history/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://1975eldoradoconvertible.com/history/hello-world/</link>
+      <pubDate>Sat, 24 Jul 2021 19:20:55 -0700</pubDate>
+      
+      <guid>http://1975eldoradoconvertible.com/history/hello-world/</guid>
+      <description>This is the new website</description>
+    </item>
+    
+  </channel>
+</rss>
